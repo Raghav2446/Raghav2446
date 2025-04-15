@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences ["D:\raghav resume.jpg"]("D:\raghav resume.jpg")
 
-- ⚡ Fun fact **i am thinking ian a creator**
+- ⚡ Fun fact **i am thinking i am a creator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
